@@ -1,0 +1,17 @@
+move-S
+move-S
+move-S
+move-E
+move-E
+move-N
+move-N
+move-E
+move-E
+move-E
+recharge
+move-W
+move-S
+move-S
+move-S
+move-S
+move-E
