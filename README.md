@@ -277,4 +277,3 @@ and an optimal path cost, this suggestion based on personal
 presentations.
 
 
--**Ziyad Mohammed Al Samhan**
